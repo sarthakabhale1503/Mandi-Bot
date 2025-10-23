@@ -49,6 +49,7 @@ Resource ID: 9ef84268-d588-465a-a308-a864a43d0070
 Update Frequency: Daily
 
 Coverage: Pan-India mandi prices
+
 🌱 Sample Crops
 
 You can search for popular crops like:
@@ -58,6 +59,7 @@ Cereals: Wheat, Rice, Maize, Jowar, Bajra
 Pulses: Tur, Gram, Moong, Urad
 Spices: Turmeric, Coriander, Cumin, Chilli
 Cash Crops: Cotton, Sugarcane, Groundnut, Soybean
+
 👨‍🌾 For Farmers
 
 Check current market rates before selling
@@ -65,6 +67,7 @@ Check current market rates before selling
 Compare prices across different markets
 
 Plan crop sales strategically
+
 🏬 For Vendors
 
 Monitor wholesale prices
@@ -72,6 +75,7 @@ Monitor wholesale prices
 Track market trends
 
 Make informed purchasing decisions
+
 🧑‍💻 Tech Stack
 
 Frontend: Streamlit
