@@ -26,62 +26,62 @@
 
 Select Your Role: Choose between 👨‍🌾 Farmer or 🏬 Vendor
 
-Natural Language Query: Type queries like:
+ Natural Language Query: Type queries like:
 
-“Rate of onions in Pune today”
+ “Rate of onions in Pune today”
 
-“Tomato prices in Nashik”
+ “Tomato prices in Nashik”
 
-Smart Suggestions: Get crop suggestions as you type
+ Smart Suggestions: Get crop suggestions as you type
 
-Get Results: Click “Get Today's & Yesterday's Rates” to fetch price comparison
+ Get Results: Click “Get Today's & Yesterday's Rates” to fetch price comparison
 
-View Trends: See price changes with visual trend indicators
+ View Trends: See price changes with visual trend indicators
 
 🧩 Data Source
 
-This application uses the official Government of India Open Data Platform:
+  This application uses the official Government of India Open Data Platform:
 
-API: data.gov.in mandi price dataset
+  API: data.gov.in mandi price dataset
 
-Resource ID: 9ef84268-d588-465a-a308-a864a43d0070
+  Resource ID: 9ef84268-d588-465a-a308-a864a43d0070
 
-Update Frequency: Daily
+  Update Frequency: Daily
 
-Coverage: Pan-India mandi prices
+  Coverage: Pan-India mandi prices
 
 🌱 Sample Crops
 
-You can search for popular crops like:
+ You can search for popular crops like:
 
-Vegetables: Tomato, Onion, Potato, Cauliflower, Cabbage
-Cereals: Wheat, Rice, Maize, Jowar, Bajra
-Pulses: Tur, Gram, Moong, Urad
-Spices: Turmeric, Coriander, Cumin, Chilli
-Cash Crops: Cotton, Sugarcane, Groundnut, Soybean
+  Vegetables: Tomato, Onion, Potato, Cauliflower, Cabbage
+  Cereals: Wheat, Rice, Maize, Jowar, Bajra
+  Pulses: Tur, Gram, Moong, Urad
+  Spices: Turmeric, Coriander, Cumin, Chilli
+  Cash Crops: Cotton, Sugarcane, Groundnut, Soybean
 
 👨‍🌾 For Farmers
 
-Check current market rates before selling
+  Check current market rates before selling
 
-Compare prices across different markets
+  Compare prices across different markets
 
-Plan crop sales strategically
+  Plan crop sales strategically
 
 🏬 For Vendors
 
-Monitor wholesale prices
+  Monitor wholesale prices
 
-Track market trends
+  Track market trends
 
-Make informed purchasing decisions
+  Make informed purchasing decisions
 
 🧑‍💻 Tech Stack
 
-Frontend: Streamlit
+   Frontend: Streamlit
 
-Backend: Python
+   Backend: Python
 
-Data Source: data.gov.in API
+   Data Source: data.gov.in API
+ 
 
-Libraries: Pandas, Requests, FuzzyWuzzy, Streamlit Components
